@@ -19,4 +19,5 @@ yes | mix deps.get
 yes | npm install
 node node_modules/brunch/bin/brunch build
 
+yes | mix phoenix.server
 mix phoenix.server
