@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beauty-148304",
+  "private_key_id": "dea60d9f0b754047950fd540082c539544946695",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCl1C0Y5JZpUTar\nzz8+7kCWGIoFazSEP1GIOTTUys3Baowx0+eZLjXpxued4ca3xwbc5uHnvPYQV8hP\nEVoc6K5uArUJs47KmjEYnSwr5hKnp8jHgXbbzXWRWI3ydUiOazaEDGseeFif3e61\no1JLjxYYtOTe0IxbVa34+D+VzBpRYkQPCezKhYgZ3+SuwuVUMslVnx6Nzyq8HVUG\ne8y9bj/E6Yup00hXxxtsbvnzpV3KXMaaqesQj4ttombVKKRaN3DcF1mBfLnl78MG\n53mIbWxDqCjKbcox16UgAMk+kj08DP+qxMJiHL0vp6APLsfyWCP0rwVI541AFsjw\n4CpiKhHpAgMBAAECggEAEwz6FVcFdJnw5vILOQaUAupUyOSVBvBjRHwV9rBJzQOZ\nkYvfmnh1lyLTrw6mDqzdu/kGUOIjfqMnDvZWXOXaTCchdzjaman3I/XCglSPJhWf\nelQEPKIw9H6w5/7TVBE7FRZ8I+b9f3g2mUVnCekpR7NYa8SXq1J/hw+19laZW2n4\nMvBIvraMG1llzy9A+GlEKnRFVypTo3Ev6aoIcSSK6iwJ85tuD+4zr+NIvFnle+kD\nz3TgDZejMJQZXAPb3mdB1M4uXQkL6w5Ci1TLsk7Hg4iPdniAr1YMKrMmRrIhwcli\nWP4Ei8GEt/XlGPEXDlRFFzWHY4qfu52Dwf30Q0iOdQKBgQDYsnoWDRpEZoaatz0s\n4Qi17bNWmSL85nK9e2d4U2i7A/MwbVaH8HDKrKbagIx9ILxwCm+IsLmMESxvT+Ah\nsAteK+j6J3XvnV1Z7bi1qjBy/38VoBS6LGbmBeGyyNJNf4XCy/avkDduPUer7vhV\nTpRU0xW22J+E86rp1q988In4ZwKBgQDD59EqyuhlvW4gbknn7Yds39Sqswa7j+86\nypAPFBC8uwN6Foc8QpsupGlFPPHZW9jb1aupQJlHEFIhiwWqrQ7bgEWocsQUgY2P\n1yO2rABSCNMeSHDTGGwsUxkJRcJehGufqrxXGnQZnZZayHKQLE4l/V2llT2vv+Ie\nBcPLflBxLwKBgEPwOOye8QRO7JanKmvepb98JcTZwClwCrszbG5CIEy54U3micGW\n9ZXlaW6J7QHx+IJcEznUxmeOntLLRSbqrbW5qJJ9OrGEMddW+5khIY18Yxihlr4D\n28L0Rx2pbp3ThFldXxsN6QML/WN/SaZdO44Ym+82nVSunIAxydUvCOKzAoGBALbm\nPTBYlDQ4cRKyJSn1Z1RMfP6JeiWusckPyQNq1l19tDdNxSCLhto7AVV1Gs61o3dK\nu6Oe/fuMz0ElzDqWq6Je1an4y/vhIEtErsEjQIFWX9SMCVnsGUIgquUvTdJ0iw5c\nls4zkmU/7VoAfoT/+E4biEzJUvg8i11AQJZB7dRdAoGABEwouQxioOt5AuK4+R0O\nY3Kr/MJpUzzDfjM+hoX5ORRrn3TUmC8kB1Zh4FsQhb+zJ5sGqkBqS1IJdsdFe8o9\nyi/3jGW/qa3eHNUzzaOxAaYSrCGohdfd9gRlD9s0DvFUpG/AIJ7R9JfNXCdmKY8K\nsfEhMXAv4ULzVSd7TeozE6U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mysql-454@beauty-148304.iam.gserviceaccount.com",
+  "client_id": "104322208313066347852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mysql-454%40beauty-148304.iam.gserviceaccount.com"
+}

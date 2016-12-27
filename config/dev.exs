@@ -35,9 +35,10 @@ config :phoenix, :stacktrace_depth, 20
 
 # Configure your database
 config :shopping_api, ShoppingApi.Repo,
-  adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  adapter: Ecto.Adapters.MySQL,
+  username: "root",
+  password: "root",
   database: "shopping_api_dev",
-  hostname: "localhost",
+  hostname: "127.0.0.1",
+  port: 3306,
   pool_size: 10
